@@ -2,7 +2,7 @@
 Bloggin is a front-end admin blog theme made using Bootstrap 4.
 
 ## Live Demo:
-http://www.jazdosanjh.com/bloggin/
+http://www.jazdosanjh.com/Bloggin/
 
 ## Built With
 * HTML5
